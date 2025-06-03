@@ -32,3 +32,4 @@ C:\Users\User\coding\SendGridEmailSenderDotNet\obj\Debug\net9.0\refint\SendGridE
 C:\Users\User\coding\SendGridEmailSenderDotNet\obj\Debug\net9.0\SendGridEmailSenderDotNet.pdb
 C:\Users\User\coding\SendGridEmailSenderDotNet\obj\Debug\net9.0\SendGridEmailSenderDotNet.genruntimeconfig.cache
 C:\Users\User\coding\SendGridEmailSenderDotNet\obj\Debug\net9.0\ref\SendGridEmailSenderDotNet.dll
+C:\Users\User\coding\SendGridEmailSenderDotNet\obj\Debug\net9.0\SendGridEmailSenderDotNet.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SendGridEmailSenderDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56733491c7fdddf4d94b06caa7e89da5d0c5fcb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d18f512d226128e004a7420f9adfa59bf0c95d08")]
 [assembly: System.Reflection.AssemblyProductAttribute("SendGridEmailSenderDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SendGridEmailSenderDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
